@@ -4,7 +4,7 @@
   "description": "internship project",
   "main": "app.js",
   "scripts": {
-    "start": "npx nodemon"
+    "start": "node api.js && npx nodemon"
   },
   "author": "Vikram Patel",
   "license": "ISC",
